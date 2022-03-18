@@ -1,3 +1,5 @@
 .contenido{
-	color: #34e;
+	border: 1px solid;
+	margin: 100px 1000px 50px 100px;/*empieza de arriba hacia la derecha*/
+
 }
